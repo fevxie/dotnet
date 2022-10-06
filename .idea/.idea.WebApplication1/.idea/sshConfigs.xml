@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="b4f0fbfd-0c55-4ff5-8ff7-a3fd37082f3d" port="22" customName="SFTP" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="SFTP" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
